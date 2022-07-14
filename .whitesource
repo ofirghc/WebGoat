@@ -4,8 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableSAST":true, 
-    "enableSASTRemediation" : true
+    "enableSAST":true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
